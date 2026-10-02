@@ -1,16 +1,13 @@
-## Hi there 👋
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!--
-**OloioiOl/OloioiOl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🏅 Stats</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://hits.sh/github.com/OloioiOl.svg?label=hits&color=3c8dbc" alt="hits"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OloioiOl&theme=tokyonight" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OloioiOl&layout=compact&theme=tokyonight&langs_count=8" height="165" alt="Most Used Languages"/>
+</p>
