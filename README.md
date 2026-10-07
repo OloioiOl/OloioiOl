@@ -2,17 +2,17 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 06/10/2026 22:43:25 UTC
+ Last Updated on 07/10/2026 23:13:43 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">🏅 Stats</h2>
